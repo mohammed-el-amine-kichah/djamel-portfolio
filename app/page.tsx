@@ -220,10 +220,10 @@ export default function Portfolio() {
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden">
               <Image
-                src="/profile.jpg"
+                src="/djamel.jpg"
                 alt="Djamel Bougheddou"
                 width={800}
-                height={1000}
+                height={800}
                 className="w-full h-full object-cover"
                 priority
               />
