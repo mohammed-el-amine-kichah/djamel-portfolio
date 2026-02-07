@@ -223,7 +223,7 @@ export default function Portfolio() {
                 src="/profile.jpg"
                 alt="Djamel Bougheddou"
                 width={800}
-                height={800}
+                height={1000}
                 className="w-full h-full object-cover"
                 priority
               />
